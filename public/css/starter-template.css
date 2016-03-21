@@ -5,3 +5,17 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+button {
+  background-color: #123456;
+  color: white;
+}
+
+.form-group {
+  width: 70%;
+  text-align: center;
+}
+
+lead {
+  overflow-wrap: normal;
+}
